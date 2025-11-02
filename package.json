@@ -1,6 +1,6 @@
 {
   "name": "@srv328/openapi-typescript-sdk-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fully-typed TypeScript SDK and React hooks generator from OpenAPI 3 specifications",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
@@ -52,4 +52,3 @@
     "LICENSE"
   ]
 }
-
